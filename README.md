@@ -1,16 +1,48 @@
-## Hi there 👋
+# venkatasai
+# Hi 👋, I'm Dontha Venkata Sai
 
-<!--
-**donthavenkatasai/donthavenkatasai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI-ML)
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 MERN Stack Enthusiast
+
+📚 DSA Learner
+
+---
+
+## Tech Stack
+
+![C++](https://img.shields.io/badge/C++-blue)
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+
+---
+
+## Current Projects
+
+🔹 FamBudget
+
+🔹 Advanced Diagno Labs
+
+🔹 Fingerprint Attendance System
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/venkatasai100904/
+
+LeetCode: https://leetcode.com/u/donthavenkatasai/
+
+Email: dvenkatasai18@gmail.com
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=donthavenkatasai&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donthavenkatasai)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=donthavenkatasai)
