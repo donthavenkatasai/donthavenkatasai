@@ -1,48 +1,41 @@
-# venkatasai
-# Hi 👋, I'm Dontha Venkata Sai
+# VENKATA-SAI
 
-🎓 B.Tech CSE (AI-ML)
+<h1 align="center">Hi 👋, I'm Venkata Sai</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
-💻 Full Stack Developer
-
-🚀 MERN Stack Enthusiast
-
-📚 DSA Learner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Learner;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-![C++](https://img.shields.io/badge/C++-blue)
-![Java](https://img.shields.io/badge/Java-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
+- 🌱 Currently learning MERN Stack
+- 💻 Solving DSA problems daily
+- 🤝 Looking to collaborate on Open Source Projects
+- ⚡ Interested in Web Development & AI
 
 ---
 
-## Current Projects
+## 🛠️ Tech Stack
 
-🔹 FamBudget
-
-🔹 Advanced Diagno Labs
-
-🔹 Fingerprint Attendance System
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,cpp,python,git,github,vscode" />
+</p>
 
 ---
 
-## Connect With Me
+## 📊 GitHub Stats
 
-LinkedIn: https://www.linkedin.com/in/venkatasai100904/
+![Venkata's GitHub stats](https://github-readme-stats.vercel.app/api?username=donthavenkatasai&show_icons=true)
 
-LeetCode: https://leetcode.com/u/donthavenkatasai/
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donthavenkatasai&layout=compact)
 
-Email: dvenkatasai18@gmail.com
+---
 
+## 🏆 GitHub Trophies
 
-![Stats](https://github-readme-stats.vercel.app/api?username=donthavenkatasai&show_icons=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=donthavenkatasai)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donthavenkatasai)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=donthavenkatasai)
+---
