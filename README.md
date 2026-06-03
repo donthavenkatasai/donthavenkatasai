@@ -1,5 +1,6 @@
 # VENKATA-SAI
-
+![banner](<img width="1712" height="864" alt="Ultra-premium GitHub profile banner, 1280x640 resolution, futuristic cyber-tech workspace aesthetic  Dark navy to black gradient background with subtle neon blue and purple atmospheric lighting  Advanced holographi" src="https://github.com/user-attachments/assets/6b782cc2-389b-4b8f-9d50-8f2989714bda" />
+)
 <h1 align="center">Hi 👋, I'm Venkata Sai</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
