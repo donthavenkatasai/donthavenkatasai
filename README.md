@@ -26,16 +26,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## Connect With Me
 
-![Venkata's GitHub stats](https://github-readme-stats.vercel.app/api?username=donthavenkatasai&show_icons=true)
+LinkedIn: https://www.linkedin.com/in/venkatasai100904/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donthavenkatasai&layout=compact)
+LeetCode: https://leetcode.com/u/donthavenkatasai/
 
----
+Email: dvenkatasai18@gmail.com
 
-## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=donthavenkatasai)
+![Stats](https://github-readme-stats.vercel.app/api?username=donthavenkatasai&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donthavenkatasai)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=donthavenkatasai)
+
 
 ---
