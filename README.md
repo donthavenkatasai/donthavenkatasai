@@ -1,4 +1,6 @@
 # VENKATA-SAI
+
+![banner](banner.png)
 <p align="center">
   <img src="./banner.png" width="100%" />
 </p>
