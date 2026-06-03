@@ -1,5 +1,7 @@
 # VENKATA-SAI
-![banner](banner.png)
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Venkata Sai</h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
 
